@@ -5,7 +5,7 @@ multivariate models, moving averages and One Class SVM.
 
  Data was explored to find appropriate time windows during a weekday day and a weekend day. Feature selection was 
 based on correlation coefficients of the training data set. Principle Component Analysis was used 
-to determine the most useful features in the training data set. Contextual anomalies were 
+to determine the most useful features in the training data set in R. Contextual anomalies were 
 determined by building hidden Markov models. The models were built upon training data to 
 replicate normal behavior and said models were used on test data where their log likelihoods 
 were compared to evaluate anomalous behavior. Anomalies were further detected by using the 
