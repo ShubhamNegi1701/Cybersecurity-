@@ -15,4 +15,4 @@ called One Class SVM. Based on our models, the log likelihoods, and the differen
 detection methods we use we determined that the test data sets are either quite anomalous or our 
 models are not an accurate representation of the normal behavior.
 
-Please read the zipfile for information about the data and implementation of methods used.
+Please read the zipfile for information about the data, implementation of methods used and a detailed technical project report.
